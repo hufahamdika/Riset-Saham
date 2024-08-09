@@ -5,3 +5,4 @@ PySastrawi
 python-Levenshtein
 git+https://github.com/ariaghora/mpstemmer.git
 git+https://github.com/rongardF/tvdatafeed.git
+xgboost
