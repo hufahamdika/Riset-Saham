@@ -1,0 +1,21 @@
+emiten,model_type,target_day,accuracy,precision,recall,f1_score
+BNGA,Price Prediction,1,0.6352,0.538,0.6352,0.5826
+BNGA,Price Prediction,5,0.5984,0.514,0.5984,0.5064
+BNGA,Price Prediction,10,0.7828,0.6971,0.7828,0.7203
+BNGA,Price Prediction,20,0.7418,0.6713,0.7418,0.6955
+BNGA,Price Prediction,50,0.8648,0.864,0.8648,0.8641
+BNGA,Deep Learning,1,0.6967,0.548,0.6967,0.5989
+BNGA,Deep Learning,5,0.7049,0.7241,0.7049,0.7045
+BNGA,Deep Learning,10,0.8934,0.8973,0.8934,0.8947
+BNGA,Deep Learning,20,0.9221,0.9236,0.9221,0.9213
+BNGA,Deep Learning,50,0.9385,0.9393,0.9385,0.9383
+BNGA,Machine Learning,1,0.709,0.5818,0.709,0.5955
+BNGA,Machine Learning,5,0.6475,0.6558,0.6475,0.5671
+BNGA,Machine Learning,10,0.8443,0.8349,0.8443,0.8252
+BNGA,Machine Learning,20,0.8566,0.877,0.8566,0.8391
+BNGA,Machine Learning,50,0.877,0.8789,0.877,0.8738
+BNGA,Ensemble Model,1,0.1025,0.3308,0.1025,0.0515
+BNGA,Ensemble Model,5,0.1025,0.3308,0.1025,0.0515
+BNGA,Ensemble Model,10,0.1025,0.3308,0.1025,0.0515
+BNGA,Ensemble Model,20,0.1066,0.6372,0.1066,0.0598
+BNGA,Ensemble Model,50,0.1066,0.6372,0.1066,0.0598

@@ -1,0 +1,21 @@
+emiten,model_type,target_day,accuracy,precision,recall,f1_score
+ADRO,Price Prediction,1,0.3934,0.3771,0.3934,0.3778
+ADRO,Price Prediction,5,0.3648,0.3374,0.3648,0.337
+ADRO,Price Prediction,10,0.5,0.4515,0.5,0.438
+ADRO,Price Prediction,20,0.5369,0.4227,0.5369,0.453
+ADRO,Price Prediction,50,0.709,0.705,0.709,0.7051
+ADRO,Deep Learning,1,0.4262,0.3631,0.4262,0.3587
+ADRO,Deep Learning,5,0.582,0.5884,0.582,0.5804
+ADRO,Deep Learning,10,0.8443,0.8508,0.8443,0.8439
+ADRO,Deep Learning,20,0.8852,0.8877,0.8852,0.8857
+ADRO,Deep Learning,50,0.8893,0.8919,0.8893,0.89
+ADRO,Machine Learning,1,0.4385,0.4242,0.4385,0.3766
+ADRO,Machine Learning,5,0.5656,0.5957,0.5656,0.5663
+ADRO,Machine Learning,10,0.7131,0.7343,0.7131,0.6953
+ADRO,Machine Learning,20,0.8156,0.8232,0.8156,0.8101
+ADRO,Machine Learning,50,0.8361,0.8525,0.8361,0.8365
+ADRO,Ensemble Model,1,0.2254,0.2275,0.2254,0.107
+ADRO,Ensemble Model,5,0.2213,0.2087,0.2213,0.1055
+ADRO,Ensemble Model,10,0.2213,0.2087,0.2213,0.1055
+ADRO,Ensemble Model,20,0.2254,0.6038,0.2254,0.1138
+ADRO,Ensemble Model,50,0.2418,0.7495,0.2418,0.1332

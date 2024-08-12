@@ -1,0 +1,21 @@
+emiten,model_type,target_day,accuracy,precision,recall,f1_score
+EXCL,Price Prediction,1,0.5287,0.3691,0.5287,0.3947
+EXCL,Price Prediction,5,0.5123,0.3846,0.5123,0.4189
+EXCL,Price Prediction,10,0.6516,0.5187,0.6516,0.5547
+EXCL,Price Prediction,20,0.709,0.7039,0.709,0.6891
+EXCL,Price Prediction,50,0.9057,0.9101,0.9057,0.9058
+EXCL,Deep Learning,1,0.5164,0.464,0.5164,0.4727
+EXCL,Deep Learning,5,0.5738,0.5866,0.5738,0.576
+EXCL,Deep Learning,10,0.7951,0.8128,0.7951,0.7985
+EXCL,Deep Learning,20,0.8811,0.8823,0.8811,0.8815
+EXCL,Deep Learning,50,0.9098,0.9109,0.9098,0.9098
+EXCL,Machine Learning,1,0.5574,0.4176,0.5574,0.422
+EXCL,Machine Learning,5,0.4959,0.5521,0.4959,0.479
+EXCL,Machine Learning,10,0.7582,0.7644,0.7582,0.739
+EXCL,Machine Learning,20,0.7787,0.8018,0.7787,0.7624
+EXCL,Machine Learning,50,0.873,0.8769,0.873,0.8737
+EXCL,Ensemble Model,1,0.2541,0.209,0.2541,0.1252
+EXCL,Ensemble Model,5,0.2541,0.209,0.2541,0.1252
+EXCL,Ensemble Model,10,0.2541,0.209,0.2541,0.1252
+EXCL,Ensemble Model,20,0.2582,0.2258,0.2582,0.1268
+EXCL,Ensemble Model,50,0.2746,0.6175,0.2746,0.1462
