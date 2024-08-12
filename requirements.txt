@@ -6,3 +6,6 @@ python-Levenshtein
 git+https://github.com/ariaghora/mpstemmer.git
 git+https://github.com/rongardF/tvdatafeed.git
 xgboost
+TA-Lib
+TA_Lib-0.4.29-cp311-cp311-win_amd64.whl
+tensorflow

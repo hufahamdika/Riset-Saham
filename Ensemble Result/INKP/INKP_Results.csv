@@ -1,0 +1,21 @@
+emiten,model_type,target_day,accuracy,precision,recall,f1_score
+INKP,Price Prediction,1,0.5082,0.4685,0.5082,0.3947
+INKP,Price Prediction,5,0.4508,0.4968,0.4508,0.3836
+INKP,Price Prediction,10,0.5943,0.5879,0.5943,0.5139
+INKP,Price Prediction,20,0.6475,0.6764,0.6475,0.6265
+INKP,Price Prediction,50,0.9016,0.9037,0.9016,0.9022
+INKP,Deep Learning,1,0.4795,0.4413,0.4795,0.4394
+INKP,Deep Learning,5,0.6393,0.6475,0.6393,0.6405
+INKP,Deep Learning,10,0.8279,0.8365,0.8279,0.8295
+INKP,Deep Learning,20,0.873,0.8783,0.873,0.874
+INKP,Deep Learning,50,0.8975,0.897,0.8975,0.8971
+INKP,Machine Learning,1,0.5164,0.3802,0.5164,0.4378
+INKP,Machine Learning,5,0.5164,0.5427,0.5164,0.5075
+INKP,Machine Learning,10,0.75,0.7728,0.75,0.7511
+INKP,Machine Learning,20,0.8074,0.8308,0.8074,0.8049
+INKP,Machine Learning,50,0.877,0.8824,0.877,0.8779
+INKP,Ensemble Model,1,0.2869,0.2843,0.2869,0.1542
+INKP,Ensemble Model,5,0.2869,0.2843,0.2869,0.1542
+INKP,Ensemble Model,10,0.2869,0.2843,0.2869,0.1542
+INKP,Ensemble Model,20,0.2869,0.4773,0.2869,0.1558
+INKP,Ensemble Model,50,0.3033,0.8052,0.3033,0.1809
