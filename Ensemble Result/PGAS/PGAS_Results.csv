@@ -1,0 +1,21 @@
+emiten,model_type,target_day,accuracy,precision,recall,f1_score
+PGAS,Price Prediction,1,0.5123,0.2635,0.5123,0.348
+PGAS,Price Prediction,5,0.4795,0.3451,0.4795,0.3986
+PGAS,Price Prediction,10,0.582,0.4653,0.582,0.5153
+PGAS,Price Prediction,20,0.6393,0.5921,0.6393,0.5965
+PGAS,Price Prediction,50,0.8443,0.8545,0.8443,0.8442
+PGAS,Deep Learning,1,0.5123,0.4743,0.5123,0.4096
+PGAS,Deep Learning,5,0.623,0.6253,0.623,0.6201
+PGAS,Deep Learning,10,0.8197,0.821,0.8197,0.8163
+PGAS,Deep Learning,20,0.8443,0.8434,0.8443,0.8427
+PGAS,Deep Learning,50,0.9344,0.9347,0.9344,0.9345
+PGAS,Machine Learning,1,0.5369,0.4076,0.5369,0.4336
+PGAS,Machine Learning,5,0.5779,0.6311,0.5779,0.5501
+PGAS,Machine Learning,10,0.7459,0.7667,0.7459,0.7257
+PGAS,Machine Learning,20,0.8115,0.8127,0.8115,0.8053
+PGAS,Machine Learning,50,0.8689,0.8767,0.8689,0.8702
+PGAS,Ensemble Model,1,0.4262,0.2595,0.4262,0.2738
+PGAS,Ensemble Model,5,0.541,0.5657,0.541,0.5073
+PGAS,Ensemble Model,10,0.5738,0.652,0.5738,0.5339
+PGAS,Ensemble Model,20,0.582,0.6533,0.582,0.5569
+PGAS,Ensemble Model,50,0.8975,0.9014,0.8975,0.8985

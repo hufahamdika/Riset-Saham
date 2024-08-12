@@ -1,0 +1,21 @@
+emiten,model_type,target_day,accuracy,precision,recall,f1_score
+TLKM,Price Prediction,1,0.6352,0.4138,0.6352,0.5012
+TLKM,Price Prediction,5,0.6352,0.4686,0.6352,0.5289
+TLKM,Price Prediction,10,0.8238,0.7434,0.8238,0.7799
+TLKM,Price Prediction,20,0.9016,0.8595,0.9016,0.8679
+TLKM,Price Prediction,50,0.9098,0.9115,0.9098,0.9034
+TLKM,Deep Learning,1,0.6107,0.4594,0.6107,0.5052
+TLKM,Deep Learning,5,0.6598,0.6398,0.6598,0.6359
+TLKM,Deep Learning,10,0.9262,0.9234,0.9262,0.9243
+TLKM,Deep Learning,20,0.9344,0.9395,0.9344,0.936
+TLKM,Deep Learning,50,0.9016,0.9145,0.9016,0.9052
+TLKM,Machine Learning,1,0.6475,0.4763,0.6475,0.5287
+TLKM,Machine Learning,5,0.6885,0.6914,0.6885,0.6466
+TLKM,Machine Learning,10,0.877,0.8853,0.877,0.8405
+TLKM,Machine Learning,20,0.9426,0.9399,0.9426,0.9383
+TLKM,Machine Learning,50,0.9139,0.9166,0.9139,0.9108
+TLKM,Ensemble Model,1,0.7459,0.5933,0.7459,0.6509
+TLKM,Ensemble Model,5,0.6762,0.6203,0.6762,0.6346
+TLKM,Ensemble Model,10,0.75,0.7055,0.75,0.6726
+TLKM,Ensemble Model,20,0.7582,0.7184,0.7582,0.7078
+TLKM,Ensemble Model,50,0.9344,0.9361,0.9344,0.9339
