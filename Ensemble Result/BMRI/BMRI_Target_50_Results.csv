@@ -1,0 +1,5 @@
+emiten,model_type,target_day,accuracy,precision,recall,f1_score
+BMRI,Price Prediction,50,0.8443,0.8531,0.8443,0.8464
+BMRI,Deep Learning,50,0.9344,0.9387,0.9344,0.9353
+BMRI,Machine Learning,50,0.8648,0.8698,0.8648,0.8626
+BMRI,Ensemble Model,50,0.9221,0.9237,0.9221,0.9223

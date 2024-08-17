@@ -1,0 +1,5 @@
+emiten,model_type,target_day,accuracy,precision,recall,f1_score
+TLKM,Price Prediction,50,0.9098,0.9115,0.9098,0.9034
+TLKM,Deep Learning,50,0.9016,0.9145,0.9016,0.9052
+TLKM,Machine Learning,50,0.9139,0.9166,0.9139,0.9108
+TLKM,Ensemble Model,50,0.9344,0.9361,0.9344,0.9339
